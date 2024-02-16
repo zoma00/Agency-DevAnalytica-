@@ -1,9 +1,11 @@
 # Agency-DevAnalytica-
 
+https://zoma00.github.io/Agency-DevAnalytica-/
+
 Experience with DevAnalytica:
 
 1. Client-centric Approach:
-   - We prioritize understanding our clients' unique needs and goals.
+   - We prioritize understanding our client's unique needs and goals.
    - Our team works closely with clients to ensure their requirements are met.
    - We provide personalized solutions tailored to each client's specific challenges.
 
@@ -18,7 +20,7 @@ Experience with DevAnalytica:
    - Our diverse skill set enables us to handle complex data projects and deliver superior results.
 
 How We Can Help:
-- We offer comprehensive data analytics services, including data integration, data modeling, and data visualization.
+- We offer comprehensive data analytics services, including data integration, data modelling, and data visualization.
 - Our team can assist with implementing DataOps practices to improve your data management and analytics processes.
 - We provide consultation and support for leveraging advanced analytics techniques, such as machine learning and AI, to gain valuable insights from your data.
 
